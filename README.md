@@ -1,4 +1,8 @@
-## Hi there 👋
+ Hi there 👋 I’m Prish Keshari 
+🌐 Exploring the world of web development and programming
+🤝 I’m excited to get involved in projects where I can make a meaningful contribution
+💻 Actively enhancing my problem-solving skills with DSA.
+🔗 Connect with me on LinkedIn: www.linkedin.com/in/prish-keshari-56a021287
 
 <!--
 **Prish-Keshari/Prish-Keshari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
