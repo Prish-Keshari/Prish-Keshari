@@ -18,8 +18,34 @@
 
 ---
 
-## 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=cpp,python,git,github,linux,vscode" />
+<h2 align="center">🧑‍💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=22&width=500&lines=Full+Stack+Web+Developer" />
+</p>
+
+---
+
+### 👨‍💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript&theme=dark" />
+</p>
+
+---
+
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
+</p>
+
+---
+
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" />
+</p>
+
+
 
 ---
 
