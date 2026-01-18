@@ -2,8 +2,11 @@
 <h3 align="center">Aspiring Software Developer | Tech Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Learning+DSA+and+Development;Passionate+about+Technology;Always+Improving" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=24&width=600&lines=Learning+DSA+and+Development;Passionate+about+Technology;Always+Improving"
+  />
 </p>
+
 
 ---
 
