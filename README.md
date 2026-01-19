@@ -10,7 +10,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+
 ## 🙋‍♂️ About Me
 
 - 🎓 Student passionate about **Software Development**
@@ -49,6 +49,10 @@
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" width="100%" />
+
+
 ## 💬 Random Coding Quote
 
 <p align="center">
@@ -59,3 +63,10 @@
 ---
 
 ⭐ **Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+
+<p align="center">
+  © 2025 <b>Prish Keshari</b> | Built with 💜 and ☕ | Powered by Passion 🚀
+</p>
+
