@@ -11,64 +11,13 @@
 ---
 
 ## 🙋‍♂️ About Me
-## 📊 About Me
+## 🙋‍♂️ About Me
 
-<table>
-<tr>
+- 🎓 Student passionate about **Software Development**
+- 💻 Currently learning **DSA & Programming**
+- 🚀 Exploring **C++, Python & Git**
+- 📈 Focused on improving **problem-solving skills**
 
-<td align="center" width="40%">
-  <img src="https://github.com/Prish-Keshari/Prish-Keshari/blob/main/gettyimages-451878351-612x612.jpg" width="280" alt="Basketball player pointing right"/>
-</td>
-
-<td width="60%">
-
-```yaml
-name: Prish Keshari
-current_role: Computer Science Student
-
-interests:
-  - MERN Stack Development
-  - Data Structures & Algorithms
-  - Competitive Programming
-  - Problem Solving
-
-tech_stack:
-  - C++
-  - Python
-  - JavaScript
-  - React
-  - Node.js
-
-
-
----
-
-<h2 align="center">🧑‍💻 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=22&width=500&lines=MERN+Stack+Developer" />
-</p>
-
----
-
-### 👨‍💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript&theme=dark" />
-</p>
-
----
-
-### 🎨 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
-</p>
-
----
-
-### ⚙️ Backend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" />
-</p>
 
 
 
